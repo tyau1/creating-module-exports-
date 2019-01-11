@@ -1,0 +1,14 @@
+{
+  "name": "testingchalk",
+  "version": "1.8.8",
+  "description": "chalk testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2"
+  }
+}
